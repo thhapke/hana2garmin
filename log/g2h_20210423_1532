@@ -1,0 +1,820 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2021 15:32:44] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:Input File: <FileStorage: 'WorkoutFileExport-Frodeno-Jan-2015-01-01-2015-12-31.zip' ('application/zip')> with 421 'fit'-files
+INFO:root:Parse file: Frodissimo.2015-01-01-09-12-54-055Z.GarminPush.1174855366.fit.gz
+INFO:root:*** running  with #Records: 318
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-02-00-36-37-060Z.GarminPush.1177271098.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:*** unidentified  with #Records: 2724
+INFO:root:Parse file: Frodissimo.2015-01-02-09-20-02-813Z.GarminPush.1178294331.fit.gz
+INFO:root:*** running  with #Records: 382
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-04-01-25-36-256Z.GarminPush.1184729986.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:*** unidentified  with #Records: 4578
+INFO:root:Parse file: Frodissimo.2015-01-04-23-39-37-374Z.GarminPush.1188656973.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 511
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-06-04-36-30-165Z.GarminPush.1193600820.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:*** unidentified  with #Records: 2953
+INFO:root:Parse file: Frodissimo.2015-01-07-22-34-12-093Z.GarminPush.1202644458.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:*** unidentified  with #Records: 3957
+INFO:root:Parse file: Frodissimo.2015-01-16-04-14-07-216Z.GarminPush.1232069973.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 6975
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-09-21-37-29-299Z.GarminPush.1209544261.fit.gz
+INFO:root:*** running  with #Records: 465
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-09-21-37-31-982Z.GarminPush.1209544363.fit.gz
+INFO:root:*** running  with #Records: 808
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-09-21-37-34-189Z.GarminPush.1209544459.fit.gz
+INFO:root:*** running  with #Records: 660
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-13-09-23-15-933Z.GarminPush.1222250923.fit.gz
+INFO:root:*** running  with #Records: 680
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-12-22-31-39-114Z.GarminPush.1220795296.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 8270
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-10-06-30-37-108Z.GarminPush.1210747103.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 2722
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-14-11-48-04-423Z.GarminPush.1226010040.fit.gz
+INFO:root:*** running  with #Records: 427
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-18-09-13-04-316Z.GarminPush.1239551224.fit.gz
+INFO:root:*** running  with #Records: 821
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-17-23-53-10-682Z.GarminPush.1238430129.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 14412
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-14-08-31-10-243Z.GarminPush.1225616047.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 11212
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-15-00-08-30-565Z.GarminPush.1228100824.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 8476
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-15-01-54-29-473Z.GarminPush.1228347303.fit.gz
+INFO:root:*** running  with #Records: 526
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-17-09-25-21-555Z.GarminPush.1235958359.fit.gz
+INFO:root:*** running  with #Records: 805
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-17-02-37-55-219Z.GarminPush.1235182535.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 6173
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-11-01-06-31-082Z.GarminPush.1213795111.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:*** unidentified  with #Records: 4457
+INFO:root:Parse file: Frodissimo.2015-01-20-05-23-50-554Z.GarminPush.1246623007.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 15296
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-24-01-38-18-811Z.GarminPush.1259971338.fit.gz
+INFO:root:*** running  with #Records: 600
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-24-01-38-20-942Z.GarminPush.1259971419.fit.gz
+INFO:root:*** running  with #Records: 807
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-24-01-38-22-945Z.GarminPush.1259971498.fit.gz
+INFO:root:*** running  with #Records: 674
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-22-23-58-17-163Z.GarminPush.1256383296.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:*** unidentified  with #Records: 6794
+INFO:root:Parse file: Frodissimo.2015-01-25-09-19-51-878Z.GarminPush.1264596480.fit.gz
+INFO:root:*** running  with #Records: 915
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-25-09-19-54-358Z.GarminPush.1264596583.fit.gz
+INFO:root:*** running  with #Records: 1016
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-25-02-01-44-110Z.GarminPush.1263692017.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 16714
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-23-22-46-29-869Z.GarminPush.1259560593.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 9955
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-29-22-24-57-524Z.GarminPush.1280971714.fit.gz
+INFO:root:*** running  with #Records: 351
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-28-01-17-23-258Z.GarminPush.1274635813.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 10890
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-27-08-47-16-844Z.GarminPush.1272096396.fit.gz
+INFO:root:*** running  with #Records: 826
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-27-02-56-22-453Z.GarminPush.1271363642.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 7681
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-29-08-20-56-593Z.GarminPush.1278932258.fit.gz
+INFO:root:*** running  with #Records: 497
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-29-00-50-32-835Z.GarminPush.1277976153.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 14946
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-29-08-20-55-377Z.GarminPush.1278932217.fit.gz
+INFO:root:*** running  with #Records: 539
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-31-08-55-57-457Z.GarminPush.1285410353.fit.gz
+INFO:root:*** running  with #Records: 1007
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-01-30-22-15-58-980Z.GarminPush.1284125303.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 10760
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-01-09-25-03-714Z.GarminPush.1288854188.fit.gz
+INFO:root:*** running  with #Records: 1081
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-02-19-27-54-423Z.GarminPush.1293925250.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 15339
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-03-09-10-48-152Z.GarminPush.1295812181.fit.gz
+INFO:root:*** running  with #Records: 975
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-02-22-29-13-917Z.GarminPush.1294451231.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 9513
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-04-03-58-38-713Z.GarminPush.1298571362.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 11573
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-04-11-02-57-417Z.GarminPush.1299376238.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 696
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-05-03-20-36-961Z.GarminPush.1301841737.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 12551
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-07-08-13-51-780Z.GarminPush.1308844789.fit.gz
+INFO:root:*** running  with #Records: 702
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-06-22-52-19-342Z.GarminPush.1307663347.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 9962
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-09-07-24-39-734Z.GarminPush.1315927585.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 11163
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-09-23-55-28-055Z.GarminPush.1318379909.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 10037
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-12-01-21-56-769Z.GarminPush.1325292287.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 15084
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-11-02-09-02-848Z.GarminPush.1322062053.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 17917
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-14-08-46-03-976Z.GarminPush.1332182902.fit.gz
+INFO:root:*** running  with #Records: 405
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-16-09-18-28-567Z.GarminPush.1338902924.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 12144
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-15-01-22-01-986Z.GarminPush.1334594963.fit.gz
+INFO:root:*** running  with #Records: 215
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-14-00-18-43-118Z.GarminPush.1331286951.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 9176
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-14-08-46-02-184Z.GarminPush.1332182850.fit.gz
+INFO:root:*** running  with #Records: 274
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-17-08-50-46-127Z.GarminPush.1342029546.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 7491
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-18-00-20-01-240Z.GarminPush.1344188472.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 11002
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-22-01-39-13-294Z.GarminPush.1356500439.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 17844
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-21-07-13-19-094Z.GarminPush.1353882868.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 8278
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-24-23-07-22-555Z.GarminPush.1365910738.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 6301
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-25-05-00-51-469Z.GarminPush.1366660683.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:*** unidentified  with #Records: 7209
+INFO:root:Parse file: Frodissimo.2015-02-26-03-55-52-341Z.GarminPush.1369823430.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:*** unidentified  with #Records: 8600
+INFO:root:Parse file: Frodissimo.2015-03-01-07-57-29-977Z.GarminPush.1380098023.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 11030
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-28-03-34-51-252Z.GarminPush.1376141991.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 6775
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-27-11-14-12-076Z.GarminPush.1373545379.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:*** unidentified  with #Records: 7509
+INFO:root:Parse file: Frodissimo.2015-02-28-05-01-37-953Z.GarminPush.1376295388.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 4769
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-02-28-21-45-15-030Z.GarminPush.1378847088.fit.gz
+INFO:root:*** running  with #Records: 457
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-02-06-48-40-428Z.GarminPush.1383692168.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 6316
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-02-07-27-00-482Z.GarminPush.1383766516.fit.gz
+INFO:root:*** running  with #Records: 188
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-03-07-16-43-145Z.GarminPush.1387228453.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 6065
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-02-22-15-14-157Z.GarminPush.1386007497.fit.gz
+INFO:root:*** running  with #Records: 296
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-03-08-40-30-213Z.GarminPush.1387382859.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 4302
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-04-00-55-40-988Z.GarminPush.1389887099.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 13634
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-04-09-44-51-428Z.GarminPush.1390957568.fit.gz
+INFO:root:*** running  with #Records: 201
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-05-00-31-16-281Z.GarminPush.1393216371.fit.gz
+INFO:root:*** running  with #Records: 527
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-05-07-40-45-804Z.GarminPush.1394102013.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 10112
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-06-00-17-38-939Z.GarminPush.1396506479.fit.gz
+INFO:root:*** running  with #Records: 670
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-07-00-12-18-687Z.GarminPush.1399733338.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 3798
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-08-08-27-35-596Z.GarminPush.1404342660.fit.gz
+INFO:root:*** running  with #Records: 737
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-08-01-00-02-852Z.GarminPush.1403425395.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 16061
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-07-01-38-28-604Z.GarminPush.1399913131.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 4810
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-07-03-36-11-147Z.GarminPush.1400139712.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 6180
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-07-08-38-14-637Z.GarminPush.1400715864.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 269
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-10-07-44-30-019Z.GarminPush.1414065198.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 6735
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-09-23-52-19-329Z.GarminPush.1412923901.fit.gz
+INFO:root:*** running  with #Records: 750
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-11-08-49-15-717Z.GarminPush.1418101722.fit.gz
+INFO:root:*** running  with #Records: 1009
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-10-23-29-12-210Z.GarminPush.1416826154.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 9759
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-10-08-57-36-876Z.GarminPush.1414198030.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 4114
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-12-08-47-11-938Z.GarminPush.1421835091.fit.gz
+INFO:root:*** running  with #Records: 1051
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-12-01-51-16-595Z.GarminPush.1421002067.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 15011
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-15-08-37-39-479Z.GarminPush.1432571206.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:*** unidentified  with #Records: 10808
+INFO:root:Parse file: Frodissimo.2015-03-15-09-10-39-963Z.GarminPush.1432642699.fit.gz
+INFO:root:*** running  with #Records: 1022
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-14-08-44-52-492Z.GarminPush.1428878944.fit.gz
+INFO:root:*** running  with #Records: 960
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-14-05-31-17-064Z.GarminPush.1428532817.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 7925
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-16-23-57-06-279Z.GarminPush.1439190450.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 5253
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-18-04-19-15-305Z.GarminPush.1443528965.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 9543
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-18-08-57-45-880Z.GarminPush.1444058728.fit.gz
+INFO:root:*** running  with #Records: 975
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-19-01-46-14-091Z.GarminPush.1446833989.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 14321
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-19-01-52-09-886Z.GarminPush.1446847394.fit.gz
+INFO:root:*** running  with #Records: 434
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-18-06-57-38-050Z.GarminPush.1443835462.fit.gz
+INFO:root:*** running  with #Records: 693
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-16-23-57-20-979Z.GarminPush.1439191204.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 7940
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-21-22-51-34-990Z.GarminPush.1456922850.fit.gz
+INFO:root:*** running  with #Records: 887
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-21-07-24-27-591Z.GarminPush.1454416673.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 9559
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-22-07-53-48-720Z.GarminPush.1458116001.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:*** unidentified  with #Records: 10808
+INFO:root:Parse file: Frodissimo.2015-03-21-08-37-14-993Z.GarminPush.1454562781.fit.gz
+INFO:root:*** running  with #Records: 552
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-24-05-31-52-958Z.GarminPush.1465727881.fit.gz
+INFO:root:*** running  with #Records: 717
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-24-03-45-00-425Z.GarminPush.1465518409.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 5478
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-03-29-01-34-07-259Z.GarminPush.1483175304.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 8421
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-04-15-03-27-627Z.GarminPush.1509270121.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 8003
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-07-19-01-08-218Z.GarminPush.1522785385.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 701
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-06-15-29-04-541Z.GarminPush.1517949404.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 14607
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-04-15-03-12-137Z.GarminPush.1509269210.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 8781
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-06-15-29-16-511Z.GarminPush.1517950233.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 7640
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-08-14-24-43-860Z.GarminPush.1525865211.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 11826
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-09-16-32-03-655Z.GarminPush.1530154979.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 16716
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-10-15-19-14-657Z.GarminPush.1533852012.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 774
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-08-14-25-10-488Z.GarminPush.1525866471.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 11691
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-07-18-59-42-150Z.GarminPush.1522779423.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 458
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-07-19-00-19-326Z.GarminPush.1522782349.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 444
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-07-19-01-22-289Z.GarminPush.1522786274.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 195
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-12-07-09-39-674Z.GarminPush.1540704788.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 9176
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-11-18-46-07-324Z.GarminPush.1538733134.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 582
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-12-18-07-42-225Z.GarminPush.1542887919.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 13045
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-27-08-10-32-281Z.GarminPush.1603812150.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 1803
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-27-08-10-42-421Z.GarminPush.1603812538.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 1965
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-10-15-18-08-476Z.GarminPush.1533848652.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 217
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-10-15-18-45-297Z.GarminPush.1533850485.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 889
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-12-10-13-48-933Z.GarminPush.1541186657.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 1344
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-27-08-10-37-273Z.GarminPush.1603812311.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 7410
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-27-08-10-47-632Z.GarminPush.1603812643.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 6884
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-27-07-33-34-882Z.GarminPush.1603728694.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 468
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-27-08-11-00-284Z.GarminPush.1603813025.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 12767
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-27-07-33-43-058Z.GarminPush.1603728979.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 691
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-27-08-11-08-082Z.GarminPush.1603813251.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 12409
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-27-08-11-15-586Z.GarminPush.1603813522.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 14715
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-27-07-33-54-149Z.GarminPush.1603729447.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 924
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-27-08-10-52-607Z.GarminPush.1603812834.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 8764
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-27-07-33-49-202Z.GarminPush.1603729327.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 314
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-04-27-08-10-41-049Z.GarminPush.1603812463.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 7234
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-01-11-20-37-974Z.GarminPush.1621165558.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 10608
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-01-11-20-55-329Z.GarminPush.1621166316.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 16097
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-03-17-22-07-394Z.GarminPush.1631053754.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 22400
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-02-21-27-26-772Z.GarminPush.1627476547.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 16366
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-02-21-27-19-924Z.GarminPush.1627476132.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 21341
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-16-14-03-33-607Z.GarminPush.1689415831.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 8847
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-16-14-03-48-933Z.GarminPush.1689417082.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 9295
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-16-14-05-42-009Z.GarminPush.1689424779.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 12218
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-16-14-13-09-412Z.GarminPush.1689456558.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 9345
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-16-14-14-12-216Z.GarminPush.1689458783.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 14799
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-19-09-41-09-163Z.GarminPush.1703011693.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 667
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-19-09-41-08-212Z.GarminPush.1703011596.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 572
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-19-09-41-11-401Z.GarminPush.1703011729.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 455
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-16-14-17-09-578Z.GarminPush.1689473667.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 4263
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-19-09-41-13-538Z.GarminPush.1703011813.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 92
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-16-14-17-23-735Z.GarminPush.1689474719.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 7346
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-19-09-39-06-027Z.GarminPush.1703006616.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 4340
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-16-14-16-59-314Z.GarminPush.1689472609.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 23031
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-19-09-41-03-937Z.GarminPush.1703011411.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 498
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-19-09-41-05-473Z.GarminPush.1703011563.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 375
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-25-12-26-04-311Z.GarminPush.1731554192.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 483
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-25-12-26-08-554Z.GarminPush.1731554557.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 142
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-25-12-26-07-563Z.GarminPush.1731554358.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 872
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-23-18-19-53-448Z.GarminPush.1723397969.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 6212
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-23-18-20-14-961Z.GarminPush.1723399266.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 11026
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-25-12-29-19-016Z.GarminPush.1731566656.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 14330
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-30-10-36-24-308Z.GarminPush.1755411709.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 3844
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-27-18-13-32-881Z.GarminPush.1742826894.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 12553
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-31-13-28-09-687Z.GarminPush.1761008118.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 1402
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-26-12-34-45-148Z.GarminPush.1736631083.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 527
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-28-07-16-51-822Z.GarminPush.1745467825.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 811
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-30-08-37-17-636Z.GarminPush.1755066016.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 778
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-26-18-55-28-469Z.GarminPush.1738114256.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 9311
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-28-16-16-28-604Z.GarminPush.1747201038.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 16768
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-25-11-49-06-350Z.GarminPush.1731413451.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:*** unidentified  with #Records: 2
+INFO:root:Parse file: Frodissimo.2015-05-25-11-49-14-073Z.GarminPush.1731413795.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 9278
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-25-12-26-13-086Z.GarminPush.1731554723.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 1008
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2015-05-31-18-50-13-235Z.GarminPush.1762497556.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 15538
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+ERROR:app:Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/d051079/OneDrive - SAP SE/GitHub/garmin2Hana/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/d051079/OneDrive - SAP SE/GitHub/garmin2Hana/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/d051079/OneDrive - SAP SE/GitHub/garmin2Hana/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/d051079/OneDrive - SAP SE/GitHub/garmin2Hana/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/d051079/OneDrive - SAP SE/GitHub/garmin2Hana/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/d051079/OneDrive - SAP SE/GitHub/garmin2Hana/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/d051079/OneDrive - SAP SE/GitHub/garmin2Hana/app.py", line 59, in index
+    fitfile(uploadform.fitfile.data,sports,db)
+  File "/Users/d051079/OneDrive - SAP SE/GitHub/garmin2Hana/parsefit.py", line 353, in fitfile
+    parse_save_fitfile(bfile,sports,db)
+  File "/Users/d051079/OneDrive - SAP SE/GitHub/garmin2Hana/parsefit.py", line 315, in parse_save_fitfile
+    save_data(sport, df, db)
+  File "/Users/d051079/OneDrive - SAP SE/GitHub/garmin2Hana/parsefit.py", line 83, in save_data
+    cursor.executemany(sql, data)
+hdbcli.dbapi.Error: (-10807, "Connection down: [89006] System call 'recv' failed, rc=54:Connection reset by peer {3.126.194.152:443} {ClientPort:62285}")
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2021 22:16:51] "[35m[1mPOST / HTTP/1.1[0m" 500 -

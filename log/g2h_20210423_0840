@@ -1,0 +1,77 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2021 08:40:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:Input File: <FileStorage: 'WorkoutFileExport-Frodeno-Jan-2016-01-01-2016-12-31.zip' ('application/zip')> with 474 'fit'-files
+INFO:root:Parse file: Frodissimo.2016-01-01-23-46-04-795Z.GarminPush.3190513953.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 2833
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2016-01-02-03-25-31-150Z.GarminPush.3191821347.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 5015
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2016-01-03-01-34-34-415Z.GarminPush.3201272308.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 11480
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2016-01-03-09-04-42-812Z.GarminPush.3203748801.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 854
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2016-01-05-23-40-45-122Z.GarminPush.3233012971.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 565
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2016-01-04-23-14-11-089Z.GarminPush.3221699821.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 289
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2016-01-05-05-19-22-498Z.GarminPush.3224364290.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 8706
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2016-01-06-09-31-27-533Z.GarminPush.3236959043.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 12385
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2016-01-03-09-04-40-222Z.GarminPush.3203748595.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: running
+INFO:root:*** running  with #Records: 128
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2016-01-08-10-41-53-695Z.GarminPush.3259437528.fit.gz
+WARNING:root:Sport not indentified
+INFO:root:Unidentified - identified: cycling_outdoor
+INFO:root:*** cycling_outdoor  with #Records: 4250
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+ERROR:app:Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/d051079/OneDrive - SAP SE/GitHub/garmin2Hana/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/d051079/OneDrive - SAP SE/GitHub/garmin2Hana/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/d051079/OneDrive - SAP SE/GitHub/garmin2Hana/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/d051079/OneDrive - SAP SE/GitHub/garmin2Hana/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/d051079/OneDrive - SAP SE/GitHub/garmin2Hana/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/d051079/OneDrive - SAP SE/GitHub/garmin2Hana/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/d051079/OneDrive - SAP SE/GitHub/garmin2Hana/app.py", line 59, in index
+    fitfile(uploadform.fitfile.data,sports,db)
+  File "/Users/d051079/OneDrive - SAP SE/GitHub/garmin2Hana/parsefit.py", line 353, in fitfile
+    parse_save_fitfile(bfile,sports,db)
+  File "/Users/d051079/OneDrive - SAP SE/GitHub/garmin2Hana/parsefit.py", line 315, in parse_save_fitfile
+    save_data(sport, df, db)
+  File "/Users/d051079/OneDrive - SAP SE/GitHub/garmin2Hana/parsefit.py", line 83, in save_data
+    cursor.executemany(sql, data)
+hdbcli.dbapi.Error: (-10807, "Connection down: [89006] System call 'send' failed, rc=32:Broken pipe {3.126.194.152:443} {ClientPort:53864}")
+INFO:werkzeug:127.0.0.1 - - [23/Apr/2021 08:42:05] "[35m[1mPOST / HTTP/1.1[0m" 500 -

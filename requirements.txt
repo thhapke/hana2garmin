@@ -1,0 +1,10 @@
+Flask
+Flask-Bootstrap4
+Flask-WTF
+jinja2
+WTForms
+Werkzeug
+hdbcli
+pandas
+PyYAML
+fitparse

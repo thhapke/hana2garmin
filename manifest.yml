@@ -1,0 +1,8 @@
+---
+applications:
+- name: garmin2Hana
+  host: garmin2Hana
+  memory: 2048M
+  disk_quota: 1024M
+  timeout: 60
+  buildpack: https://github.com/cloudfoundry/buildpack-python.git

@@ -1,0 +1,1271 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:50:18] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:Input File: <FileStorage: 'WorkoutFileExport-Frodeno-Jan-2018-01-01-2018-12-31.zip' ('application/zip')> with 425 'fit'-files
+INFO:root:Parse file: 2018-01-01-003919-ELEMNT+3B31-49-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 11064
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-01-01-215559-ELEMNT+3B31-50-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 8403
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 16663456005.fit.gz
+INFO:root:*** running  with #Records: 1609
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 16653306258.fit.gz
+INFO:root:*** running  with #Records: 1063
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-01-02-212129-ELEMNT+3B31-51-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 11550
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 16695038700.fit.gz
+INFO:root:*** running  with #Records: 590
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 16750915096.fit.gz
+INFO:root:*** running  with #Records: 1300
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 16806730244.fit.gz
+INFO:root:*** running  with #Records: 1717
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-01-05-211101-ELEMNT+3B31-53-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 17449
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-01-05-032938-ELEMNT+3B31-52-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 8467
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-01-08-202015-ELEMNT%2B3B31-55-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 9032
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 16833873691.fit.gz
+INFO:root:*** running  with #Records: 1261
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-01-08-001331-ELEMNT+3B31-54-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 6429
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-01-09-212457-ELEMNT+3B31-56-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 14498
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 16894680498.fit.gz
+INFO:root:*** running  with #Records: 1178
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 16863104336.fit.gz
+INFO:root:*** running  with #Records: 617
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-01-10-210650-ELEMNT+3B31-57-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 17905
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-01-14-09-25-41-205Z.GarminPush.17006937216.fit.gz
+INFO:root:*** running  with #Records: 1191
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-01-14-123529-ELEMNT+97D8-28-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 8138
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-01-15-053833-ELEMNT+97D8-29-0.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 3169
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-01-19-05-08-15-598Z.GarminPush.17144177970.fit.gz
+INFO:root:*** running  with #Records: 960
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-01-19-05-08-35-583Z.GarminPush.17144184340.fit.gz
+INFO:root:*** running  with #Records: 816
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-01-19-034602-ELEMNT+97D8-30-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 4682
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-01-20-080843-ELEMNT+97D8-31-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 9029
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-01-25-06-15-18-024Z.GarminPush.17317142118.fit.gz
+INFO:root:*** running  with #Records: 532
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-01-25-191607-ELEMNT+97D8-38-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 19060
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-01-21-212041-ELEMNT+97D8-33-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 8833
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-01-23-201642-ELEMNT+97D8-37-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 14861
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-01-27-10-06-38-800Z.GarminPush.17376218995.fit.gz
+INFO:root:*** running  with #Records: 1429
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-01-24-08-27-49-300Z.GarminPush.17291292773.fit.gz
+INFO:root:*** running  with #Records: 1426
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-01-23-005841-ELEMNT+97D8-34-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 5480
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-01-23-052235-ELEMNT+97D8-36-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7216
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-01-21-030927-ELEMNT+97D8-32-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7204
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-01-26-203751-ELEMNT+97D8-39-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7926
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-01-31-10-58-54-171Z.GarminPush.17493974888.fit.gz
+INFO:root:*** running  with #Records: 437
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-01-31-060150-ELEMNT+97D8-42-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7203
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-02-01-01-18-45-077Z.GarminPush.17512411433.fit.gz
+INFO:root:*** running  with #Records: 894
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-01-28-231653-ELEMNT+97D8-41-0.fit.gz
+WARNING:root:Unsported sport or corrupt data: Tried to read 2 bytes from .FIT file but got 0
+INFO:root:Parse file: Frodissimo.2018-02-03-23-55-01-189Z.GarminPush.17594170691.fit.gz
+INFO:root:*** running  with #Records: 2235
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-03-052434-ELEMNT+97D8-44-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 10963
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-02-051310-ELEMNT+97D8-43-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 3611
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-02-051310-ELEMNT+97D8-43-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 3611
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-09-202552-ELEMNT+97D8-50-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 3000
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-09-202552-ELEMNT+97D8-50-0.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 3000
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-06-214652-ELEMNT+97D8-48-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 14443
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-05-030810-ELEMNT+97D8-45-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7261
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-02-04-23-04-56-041Z.GarminPush.17622438830.fit.gz
+INFO:root:*** running  with #Records: 1364
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-05-212642-ELEMNT+97D8-46-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7210
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-02-07-10-55-23-708Z.GarminPush.17690173015.fit.gz
+INFO:root:*** running  with #Records: 1121
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-02-09-04-27-52-100Z.GarminPush.17738593871.fit.gz
+INFO:root:*** running  with #Records: 1641
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-09-093257-ELEMNT+97D8-49-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 5403
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-06-033356-ELEMNT+97D8-47-12.fit.gz
+WARNING:root:Unsported sport or corrupt data: Tried to read 2 bytes from .FIT file but got 0
+INFO:root:Parse file: Frodissimo.2018-02-12-00-52-02-234Z.GarminPush.17819178063.fit.gz
+INFO:root:*** running  with #Records: 1535
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-12-032535-ELEMNT+97D8-51-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 6616
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-12-222403-ELEMNT+97D8-52-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 8701
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-02-16-23-46-40-723Z.GarminPush.17957353599.fit.gz
+INFO:root:*** running  with #Records: 1094
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-02-14-07-50-14-719Z.GarminPush.17882331234.fit.gz
+INFO:root:*** running  with #Records: 1120
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-13-041955-ELEMNT+97D8-53-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7203
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-16-011540-ELEMNT+97D8-55-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 9006
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-02-17-04-42-34-819Z.GarminPush.17962129414.fit.gz
+INFO:root:*** running  with #Records: 1613
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-16-213628-ELEMNT+97D8-56-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7202
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-02-10-21-17-59-483Z.GarminPush.17786508292.fit.gz
+INFO:root:*** running  with #Records: 2028
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-13-210751-ELEMNT+97D8-54-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 16215
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-19-022414-ELEMNT+97D8-58-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7200
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-02-19-11-33-04-369Z.GarminPush.18028375550.fit.gz
+INFO:root:*** running  with #Records: 1501
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-20-033259-ELEMNT+97D8-60-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 8236
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-19-213119-ELEMNT+97D8-59-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7204
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-21-030154-ELEMNT+97D8-61-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 14098
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-02-21-07-18-34-930Z.GarminPush.18081566675.fit.gz
+INFO:root:*** running  with #Records: 1507
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-02-21-07-55-39-193Z.GarminPush.18082248977.fit.gz
+INFO:root:*** running  with #Records: 483
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-22-205047-ELEMNT+97D8-62-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7249
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-02-23-06-18-51-692Z.GarminPush.18136779646.fit.gz
+INFO:root:*** running  with #Records: 672
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-24-022338-ELEMNT+97D8-63-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7189
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-02-24-08-34-56-106Z.GarminPush.18166498748.fit.gz
+INFO:root:*** running  with #Records: 1933
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-26-002531-ELEMNT 97D8-64-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7262
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-28-043613-ELEMNT+97D8-67-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 11702
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-02-26-08-22-57-718Z.GarminPush.18224536604.fit.gz
+INFO:root:*** running  with #Records: 1664
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-27-062348-ELEMNT+97D8-66-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 8696
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-02-28-02-19-25-973Z.GarminPush.18274877821.fit.gz
+INFO:root:*** running  with #Records: 1398
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-02-28-08-50-08-326Z.GarminPush.18281479646.fit.gz
+INFO:root:*** running  with #Records: 689
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-26-231738-ELEMNT+97D8-65-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7200
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-02-200203-ELEMNT+97D8-69-12.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 14411
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-03-02-08-43-07-515Z.GarminPush.18335910672.fit.gz
+INFO:root:*** running  with #Records: 1048
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-02-020558-ELEMNT+97D8-68-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7200
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-03-03-08-37-32-001Z.GarminPush.18362238668.fit.gz
+INFO:root:*** running  with #Records: 2386
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-04-233759-ELEMNT+97D8-70-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7205
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-03-05-11-13-43-257Z.GarminPush.18423838250.fit.gz
+INFO:root:*** running  with #Records: 1852
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-06-000031-ELEMNT+97D8-71-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 10659
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-03-05-23-15-45-551Z.GarminPush.18439945138.fit.gz
+INFO:root:*** running  with #Records: 929
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-03-08-02-43-58-203Z.GarminPush.18501944814.fit.gz
+INFO:root:*** running  with #Records: 1553
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-06-205325-ELEMNT+97D8-72-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 17283
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-03-07-10-29-38-775Z.GarminPush.18481300836.fit.gz
+INFO:root:*** running  with #Records: 513
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-03-14-08-16-58-261Z.GarminPush.18687818312.fit.gz
+INFO:root:*** running  with #Records: 1361
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-03-14-00-38-14-678Z.GarminPush.18679655198.fit.gz
+INFO:root:*** running  with #Records: 1232
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-03-17-08-05-43-426Z.GarminPush.18774597093.fit.gz
+INFO:root:*** running  with #Records: 2213
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-14-001910-ELEMNT+97D8-75-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7202
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-16-220621-ELEMNT+97D8-78-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 9932
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-14-191151-ELEMNT+97D8-76-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 14431
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-13-021706-ELEMNT+97D8-74-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 8100
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-16-043520-ELEMNT+97D8-77-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 9002
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-03-16-08-41-13-235Z.GarminPush.18747132209.fit.gz
+INFO:root:*** running  with #Records: 1001
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-12-050156-ELEMNT+97D8-73-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 3530
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-03-19-08-27-37-388Z.GarminPush.18834700616.fit.gz
+INFO:root:*** running  with #Records: 1828
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-19-003853-ELEMNT+97D8-79-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7206
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-20-035940-ELEMNT+97D8-80-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 10802
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-03-20-08-55-47-232Z.GarminPush.18864912930.fit.gz
+INFO:root:*** running  with #Records: 921
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-03-21-19-23-46-873Z.GarminPush.18908542429.fit.gz
+INFO:root:*** running  with #Records: 1564
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-20-195252-ELEMNT+97D8-81-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 18511
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-23-012019-ELEMNT+97D8-82-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 1801
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-23-071755-ELEMNT+97D8-83-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7240
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-03-24-07-44-43-083Z.GarminPush.18980654251.fit.gz
+INFO:root:*** running  with #Records: 1824
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-23-215943-ELEMNT+97D8-84-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 12320
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-03-23-04-09-25-254Z.GarminPush.18948150861.fit.gz
+INFO:root:*** running  with #Records: 1455
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-27-222736-ELEMNT+97D8-87-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 14400
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-03-28-03-16-51-295Z.GarminPush.19103423445.fit.gz
+INFO:root:*** running  with #Records: 856
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-30-014546-ELEMNT+97D8-88-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 1807
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2588121297.fit.gz
+INFO:root:*** running  with #Records: 1201
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-03-31-08-22-40-660Z.GarminPush.19199573349.fit.gz
+INFO:root:*** running  with #Records: 937
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-27-031325-ELEMNT+97D8-86-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 6304
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-03-26-08-49-47-228Z.GarminPush.19047406474.fit.gz
+INFO:root:*** running  with #Records: 2259
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-30-070414-ELEMNT+97D8-89-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7170
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-26-002837-ELEMNT+97D8-85-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7203
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-30-214638-ELEMNT+97D8-90-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 10308
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-04-06-000428-ELEMNT+3B31-59-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7160
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-04-14-18-08-57-166Z.GarminPush.19649841441.fit.gz
+INFO:root:*** running  with #Records: 406
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-04-05-000123-ELEMNT+3B31-58-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 1815
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-04-02-10-53-21-137Z.GarminPush.19264058869.fit.gz
+INFO:root:*** running  with #Records: 1017
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-04-02-025743-ELEMNT+97D8-91-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7203
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-04-03-004632-ELEMNT+97D8-92-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 5522
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-04-06-154319-ELEMNT+97D8-93-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 1860
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-04-14-140202-ELEMNT+3B31-62-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7204
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-04-14-18-09-28-620Z.GarminPush.19649854547.fit.gz
+INFO:root:*** running  with #Records: 1478
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-04-15-17-33-44-424Z.GarminPush.19680311161.fit.gz
+INFO:root:*** running  with #Records: 1362
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-04-15-113035-ELEMNT+3B31-65-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 1340
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-04-07-140509-ELEMNT+3B31-60-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 8539
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-04-18-065536-ELEMNT+3B31-66-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 10641
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-04-17-19-06-11-533Z.GarminPush.19745264593.fit.gz
+INFO:root:*** running  with #Records: 2044
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-04-19-07-34-35-134Z.GarminPush.19792479214.fit.gz
+INFO:root:*** running  with #Records: 1572
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-04-21-17-59-15-972Z.GarminPush.19869949133.fit.gz
+INFO:root:*** running  with #Records: 1459
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-04-21-124047-ELEMNT+97D8-97-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7201
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-04-22-11-53-01-948Z.GarminPush.19892777937.fit.gz
+INFO:root:*** running  with #Records: 2357
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-04-17-124146-ELEMNT+97D8-95-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 9001
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-04-18-21-05-08-789Z.GarminPush.19779982799.fit.gz
+INFO:root:*** running  with #Records: 758
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-04-12-073942-ELEMNT+3B31-61-0.fit.gz
+WARNING:root:Unsported sport or corrupt data: Tried to read 2 bytes from .FIT file but got 0
+INFO:root:Parse file: 2018-04-15-065222-ELEMNT+3B31-64-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 9693
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-04-19-160136-ELEMNT+97D8-96-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 11707
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-04-27-064816-ELEMNT+97D8-99-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 4303
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-04-22-144229-ELEMNT+97D8-98-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 12542
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-04-25-22-09-40-099Z.GarminPush.20006224046.fit.gz
+INFO:root:*** running  with #Records: 853
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-04-26-03-34-36-462Z.GarminPush.20012449913.fit.gz
+INFO:root:*** running  with #Records: 493
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-04-26-024407-ELEMNT+3B31-69-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 5099
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-04-23-184744-ELEMNT+3B31-67-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 3606
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-04-24-045001-ELEMNT+3B31-68-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 4500
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-04-25-22-09-44-458Z.GarminPush.20006225890.fit.gz
+INFO:root:*** running  with #Records: 54
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-04-27-235902-ELEMNT+3B31-70-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 7406
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-05-05-19-16-10-248Z.GarminPush.20316221908.fit.gz
+INFO:root:*** running  with #Records: 1047
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-05-04-20-35-43-071Z.GarminPush.20286220184.fit.gz
+INFO:root:*** running  with #Records: 859
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-04-101550-ELEMNT+97D8-102-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 11575
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-05-122221-ELEMNT+97D8-103-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 1470
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-11-181831-ELEMNT+97D8-111-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 1946
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-09-092355-ELEMNT+97D8-110-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 7200
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-12-130532-ELEMNT+97D8-112-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 1809
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-08-135913-ELEMNT+97D8-109-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 8717
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-07-095006-ELEMNT+97D8-106-61.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 1801
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-07-163736-ELEMNT+97D8-107-61.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 6606
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-05-11-11-44-04-303Z.GarminPush.20499334420.fit.gz
+INFO:root:*** running  with #Records: 1415
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-05-07-12-23-43-446Z.GarminPush.20372093890.fit.gz
+INFO:root:*** running  with #Records: 1615
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-05-11-11-43-23-513Z.GarminPush.20499317844.fit.gz
+INFO:root:*** running  with #Records: 1533
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-05-12-15-17-55-181Z.GarminPush.20536483512.fit.gz
+INFO:root:*** running  with #Records: 1712
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-05-08-16-36-36-971Z.GarminPush.20410914045.fit.gz
+INFO:root:*** running  with #Records: 1002
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-05-124947-ELEMNT+97D8-104-61.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 229
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-05-125541-ELEMNT+97D8-105-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 6983
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-12-180113-ELEMNT+97D8-113-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 5642
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-13-153726-ELEMNT+97D8-114-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 6637
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-05-13-17-34-13-899Z.GarminPush.20572610566.fit.gz
+INFO:root:*** running  with #Records: 1705
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-18-105819-ELEMNT+97D8-118-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 14314
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-19-151518-ELEMNT 97D8-119-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 9000
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-05-18-07-34-41-726Z.GarminPush.20719027697.fit.gz
+INFO:root:*** running  with #Records: 1391
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-05-15-18-31-49-207Z.GarminPush.20638595021.fit.gz
+INFO:root:*** running  with #Records: 1925
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-14-120124-ELEMNT+97D8-115-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7160
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-15-100618-ELEMNT+97D8-116-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 10803
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-17-134849-ELEMNT+97D8-117-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 9248
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-05-18-07-34-00-596Z.GarminPush.20719013860.fit.gz
+INFO:root:*** running  with #Records: 558
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-05-14-17-24-36-065Z.GarminPush.20604087468.fit.gz
+INFO:root:*** running  with #Records: 1545
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-05-21-13-16-57-138Z.GarminPush.20822792768.fit.gz
+INFO:root:*** running  with #Records: 2271
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-25-102636-ELEMNT+97D8-123-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 3600
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-05-23-14-07-07-438Z.GarminPush.20888616133.fit.gz
+INFO:root:*** running  with #Records: 897
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-21-151749-ELEMNT+97D8-120-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7269
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-05-23-14-06-39-333Z.GarminPush.20888604965.fit.gz
+INFO:root:*** running  with #Records: 1027
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-22-071336-ELEMNT+97D8-121-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 9000
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-05-25-13-14-40-381Z.GarminPush.20951465613.fit.gz
+INFO:root:*** running  with #Records: 1691
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-25-163621-ELEMNT+97D8-124-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7201
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-05-29-11-03-06-332Z.GarminPush.21075419764.fit.gz
+INFO:root:*** running  with #Records: 805
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-26-063821-ELEMNT+97D8-125-0.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 14402
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-23-085448-ELEMNT+97D8-122-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 12301
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-05-18-07-33-42-475Z.GarminPush.20719007996.fit.gz
+INFO:root:*** running  with #Records: 751
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-05-20-12-57-46-520Z.GarminPush.20789403532.fit.gz
+INFO:root:*** running  with #Records: 624
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-01-25-191607-ELEMNT+97D8-38-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 19060
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-01-23-052235-ELEMNT+97D8-36-0.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7216
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-01-19-034602-ELEMNT+97D8-30-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 4682
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-12-050156-ELEMNT+97D8-73-0.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 3530
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-04-29-003600-ELEMNT+97D8-100-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 4784
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-05-030810-ELEMNT+97D8-45-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7261
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-06-205325-ELEMNT+97D8-72-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 17283
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-28-043613-ELEMNT+97D8-67-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 11702
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-04-08-002346-ELEMNT+97D8-94-0.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 1465
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-03-04-233759-ELEMNT+97D8-70-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7205
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-24-022338-ELEMNT+97D8-63-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7189
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-02-17-082823-ELEMNT+97D8-57-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 10709
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-05-31-17-38-53-149Z.GarminPush.21149496358.fit.gz
+INFO:root:*** running  with #Records: 629
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-05-31-17-37-40-375Z.GarminPush.21149464419.fit.gz
+INFO:root:*** running  with #Records: 1109
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-29-064001-ELEMNT+97D8-127-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 7905
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-06-01-151749-ELEMNT+3B31-71-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 5765
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-06-08-18-48-58-417Z.GarminPush.21412744566.fit.gz
+INFO:root:*** running  with #Records: 362
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-06-02-133323-ELEMNT+3B31-72-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 2220
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-28-102756-ELEMNT+97D8-126-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7201
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-04-06-154319-ELEMNT+97D8-93-0.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 1860
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-03-170924-ELEMNT+97D8-101-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 3909
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-06-09-060519-ELEMNT+97D8-132-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 10450
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-06-06-073443-ELEMNT+97D8-130-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 14625
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-06-09-16-27-21-785Z.GarminPush.21441809617.fit.gz
+INFO:root:*** running  with #Records: 7287
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-06-16-19-30-21-807Z.GarminPush.21676609267.fit.gz
+INFO:root:*** running  with #Records: 2514
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-06-08-090058-ELEMNT+97D8-131-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 7236
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-06-05-085859-ELEMNT+97D8-129-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 16450
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-06-08-18-50-30-440Z.GarminPush.21412781515.fit.gz
+INFO:root:*** running  with #Records: 2315
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-05-31-083021-ELEMNT+97D8-128-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 6538
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-05-31-17-39-30-074Z.GarminPush.21149511776.fit.gz
+INFO:root:*** running  with #Records: 376
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-06-16-063734-ELEMNT+97D8-137-0.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 10801
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-06-12-10-23-38-638Z.GarminPush.21531574721.fit.gz
+INFO:root:*** running  with #Records: 873
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-06-12-132115-ELEMNT+97D8-134-0.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 12602
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-06-11-18-06-28-559Z.GarminPush.21510254249.fit.gz
+INFO:root:*** running  with #Records: 2098
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-06-14-14-30-52-720Z.GarminPush.21603782161.fit.gz
+INFO:root:*** running  with #Records: 388
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-06-15-12-58-28-766Z.GarminPush.21633920480.fit.gz
+INFO:root:*** running  with #Records: 979
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-06-15-082734-ELEMNT+97D8-136-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 5404
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-06-11-090332-ELEMNT+97D8-133-0.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 8126
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-06-13-063247-ELEMNT+97D8-135-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 14408
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-06-08-18-56-09-390Z.GarminPush.21412918385.fit.gz
+INFO:root:*** running  with #Records: 4151
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-06-03-072511-ELEMNT+3B31-73-0.fit.gz
+WARNING:root:Unsported sport or corrupt data: Tried to read 2 bytes from .FIT file but got 0
+INFO:root:Parse file: Frodissimo.2018-06-08-18-49-04-055Z.GarminPush.21412746389.fit.gz
+INFO:root:*** running  with #Records: 7
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-06-18-18-21-16-347Z.GarminPush.21741401413.fit.gz
+INFO:root:*** running  with #Records: 1844
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-06-19-05-41-29-652Z.GarminPush.21756477258.fit.gz
+INFO:root:*** running  with #Records: 677
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-06-18-105026-ELEMNT+97D8-138-0.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7202
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-06-20-083904-ELEMNT+97D8-140-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 17164
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-06-22-164628-ELEMNT+97D8-143-12.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 8000
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-06-22-07-54-46-636Z.GarminPush.21860824037.fit.gz
+INFO:root:*** running  with #Records: 1641
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-06-23-07-47-08-568Z.GarminPush.21893045320.fit.gz
+INFO:root:*** running  with #Records: 2434
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-06-23-131441-ELEMNT+97D8-144-0.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 13500
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-06-20-21-06-26-995Z.GarminPush.21813372196.fit.gz
+INFO:root:*** running  with #Records: 744
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-06-19-152316-ELEMNT+97D8-139-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 12602
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-06-14-14-31-16-382Z.GarminPush.21603791579.fit.gz
+INFO:root:*** running  with #Records: 1771
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-06-26-10-25-06-276Z.GarminPush.22001094949.fit.gz
+INFO:root:*** running  with #Records: 1346
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-06-25-101319-ELEMNT+97D8-145-0.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7202
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-06-26-082022-ELEMNT+97D8-146-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7200
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-07-02-15-05-54-167Z.GarminPush.22216017458.fit.gz
+INFO:root:*** running  with #Records: 872
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-06-30-054205-ELEMNT+97D8-150-0.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 9021
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-06-27-062348-ELEMNT+97D8-147-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 11603
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-06-21-175244-ELEMNT+97D8-141-0.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 3137
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-06-28-121720-ELEMNT+97D8-148-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 21601
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-07-02-15-06-46-690Z.GarminPush.22216042502.fit.gz
+INFO:root:*** running  with #Records: 842
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-07-02-15-07-01-332Z.GarminPush.22216049366.fit.gz
+INFO:root:*** running  with #Records: 750
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-07-03-051800-ELEMNT+97D8-152-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 6000
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-07-03-09-27-23-442Z.GarminPush.22242544871.fit.gz
+INFO:root:*** running  with #Records: 1167
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-07-02-160556-ELEMNT+97D8-151-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 5447
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-07-05-135915-ELEMNT+3B31-74-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 2873
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-07-06-083533-ELEMNT+3B31-75-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 6002
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-07-07-054346-ELEMNT+3B31-76-0.fit.gz
+WARNING:root:Unsported sport or corrupt data: Tried to read 2 bytes from .FIT file but got 0
+INFO:root:Parse file: 2018-07-10-114936-ELEMNT+97D8-155-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 5000
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-07-08-052057-ELEMNT+3B31-77-0.fit.gz
+WARNING:root:Unsported sport or corrupt data: Tried to read 2 bytes from .FIT file but got 0
+INFO:root:Parse file: 2018-07-12-082635-ELEMNT+3B31-78-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 8967
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-07-17-050015-ELEMNT+97D8-157-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 8085
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-07-16-130707-ELEMNT+97D8-156-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 6066
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-07-21-09-44-08-435Z.GarminPush.22882209654.fit.gz
+INFO:root:*** running  with #Records: 1213
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-07-20-180238-ELEMNT+97D8-159-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 4218
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-07-21-152932-ELEMNT+97D8-160-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 3274
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-07-21-09-45-15-217Z.GarminPush.22882235508.fit.gz
+INFO:root:*** running  with #Records: 1797
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-07-18-131754-ELEMNT+97D8-158-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 8424
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-07-15-111820-ELEMNT+3B31-79-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 10212
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-07-23-102629-ELEMNT+97D8-162-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7200
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-07-24-20-00-03-417Z.GarminPush.23000955032.fit.gz
+INFO:root:*** running  with #Records: 843
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-07-23-19-05-02-406Z.GarminPush.22965388068.fit.gz
+INFO:root:*** running  with #Records: 1792
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-07-25-053732-ELEMNT+3B31-81-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 16227
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-07-25-20-02-49-518Z.GarminPush.23034442946.fit.gz
+INFO:root:*** running  with #Records: 1439
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-07-30-17-42-18-908Z.GarminPush.23196012460.fit.gz
+INFO:root:*** running  with #Records: 2077
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-07-28-17-13-25-883Z.GarminPush.23129265469.fit.gz
+INFO:root:*** running  with #Records: 1615
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-07-28-055533-ELEMNT+97D8-164-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 12379
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-07-27-07-38-20-956Z.GarminPush.23083513875.fit.gz
+INFO:root:*** running  with #Records: 837
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-07-27-075608-ELEMNT+3B31-82-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 7335
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-07-24-051633-ELEMNT 97D8-163-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7402
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-07-21-09-41-22-360Z.GarminPush.22882144578.fit.gz
+INFO:root:*** running  with #Records: 693
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-07-21-09-41-42-965Z.GarminPush.22882152636.fit.gz
+INFO:root:*** running  with #Records: 534
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-07-21-09-43-31-025Z.GarminPush.22882194302.fit.gz
+INFO:root:*** running  with #Records: 987
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-07-22-134420-ELEMNT+97D8-161-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 6217
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-07-23-19-04-16-885Z.GarminPush.22965368492.fit.gz
+INFO:root:*** running  with #Records: 791
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-07-04-102734-ELEMNT+97D8-154-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 5403
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-07-30-103239-ELEMNT 97D8-165-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 7200
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-07-31-17-37-58-885Z.GarminPush.23229670487.fit.gz
+INFO:root:*** running  with #Records: 1019
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-08-01-17-39-41-081Z.GarminPush.23263445050.fit.gz
+INFO:root:*** running  with #Records: 1982
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-08-06-19-38-57-384Z.GarminPush.23432090512.fit.gz
+INFO:root:*** running  with #Records: 939
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-08-01-063408-ELEMNT+97D8-167-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 13371
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-07-31-124000-ELEMNT+97D8-166-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 9178
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-08-04-04-51-15-952Z.GarminPush.23342365511.fit.gz
+INFO:root:*** running  with #Records: 1359
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-08-04-063441-ELEMNT+97D8-169-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 15301
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-08-04-18-11-24-625Z.GarminPush.23362222152.fit.gz
+INFO:root:*** running  with #Records: 2131
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-08-03-130239-ELEMNT+97D8-168-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 7201
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-08-08-17-31-05-426Z.GarminPush.23495539041.fit.gz
+INFO:root:*** running  with #Records: 1324
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-08-08-053406-ELEMNT+97D8-172-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 17718
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-08-06-122042-ELEMNT+97D8-170-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7164
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-08-07-102255-ELEMNT+97D8-171-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 14566
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-08-07-18-25-29-398Z.GarminPush.23463531243.fit.gz
+INFO:root:*** running  with #Records: 1121
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-08-10-102014-ELEMNT+97D8-173-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7016
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-08-10-18-09-29-139Z.GarminPush.23562052630.fit.gz
+INFO:root:*** running  with #Records: 1778
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-08-11-074645-ELEMNT+97D8-174-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 12480
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-08-11-17-18-38-084Z.GarminPush.23594463625.fit.gz
+INFO:root:*** running  with #Records: 2663
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-08-13-16-50-51-927Z.GarminPush.23660521345.fit.gz
+INFO:root:*** running  with #Records: 857
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-08-13-101222-ELEMNT+97D8-175-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 6304
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-08-15-14-19-42-649Z.GarminPush.23724813320.fit.gz
+INFO:root:*** running  with #Records: 941
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-08-15-061027-ELEMNT+97D8-177-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 21520
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-08-14-062512-ELEMNT+97D8-176-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 11700
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-08-17-19-30-25-375Z.GarminPush.23800634226.fit.gz
+INFO:root:*** running  with #Records: 2242
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-08-18-18-26-57-255Z.GarminPush.23833190512.fit.gz
+INFO:root:*** running  with #Records: 1809
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-08-18-072335-ELEMNT+97D8-179-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 11101
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-08-17-101014-ELEMNT+97D8-178-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7200
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-08-20-160430-ELEMNT+97D8-180-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 7637
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-08-20-18-18-05-951Z.GarminPush.23901255806.fit.gz
+INFO:root:*** running  with #Records: 735
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-08-21-19-47-57-198Z.GarminPush.23938522559.fit.gz
+INFO:root:*** running  with #Records: 1484
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-08-22-15-22-49-029Z.GarminPush.23965593142.fit.gz
+INFO:root:*** running  with #Records: 931
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-08-24-12-52-47-974Z.GarminPush.24029964264.fit.gz
+INFO:root:*** running  with #Records: 1462
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-08-24-160820-ELEMNT+97D8-184-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 8359
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-08-25-19-48-56-745Z.GarminPush.24073927958.fit.gz
+INFO:root:*** running  with #Records: 950
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-08-22-104928-ELEMNT+97D8-182-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 11220
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-08-21-114012-ELEMNT+97D8-181-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 11400
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-08-25-085201-ELEMNT+97D8-185-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 9001
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-08-31-16-22-46-841Z.GarminPush.24271596693.fit.gz
+INFO:root:*** running  with #Records: 481
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-09-01-122801-ELEMNT+EB26-2-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 1812
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-08-31-075258-ELEMNT+EB26-1-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 7296
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-09-01-13-32-58-639Z.GarminPush.24300189665.fit.gz
+INFO:root:*** running  with #Records: 360
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-08-27-113950-ELEMNT+97D8-186-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7203
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-08-31-16-22-36-796Z.GarminPush.24271592069.fit.gz
+INFO:root:*** running  with #Records: 847
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-08-27-18-28-34-255Z.GarminPush.24139739447.fit.gz
+INFO:root:*** running  with #Records: 1110
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-08-28-070641-ELEMNT+97D8-187-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 9044
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-08-29-043209-ELEMNT+97D8-188-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 3544
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-08-24-103702-ELEMNT+97D8-183-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 1801
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-09-02-055358-ELEMNT+EB26-4-0.fit.gz
+WARNING:root:Unsported sport or corrupt data: Tried to read 4 bytes from .FIT file but got 0
+INFO:root:Parse file: 2018-09-02-055358-ELEMNT+EB26-3-0.fit.gz
+WARNING:root:Unsported sport or corrupt data: Tried to read 2 bytes from .FIT file but got 0
+INFO:root:Parse file: Frodissimo.2018-09-09-04-08-32-150Z.GarminPush.24560386030.fit.gz
+INFO:root:*** running  with #Records: 1354
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-09-07-234009-ELEMNT+97D8-191-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 10800
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-09-07-034355-ELEMNT+97D8-190-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 10800
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-09-07-11-21-34-470Z.GarminPush.24502939652.fit.gz
+INFO:root:*** running  with #Records: 166
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-09-06-010017-ELEMNT+97D8-189-12.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 7212
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-09-07-06-57-42-833Z.GarminPush.24497131728.fit.gz
+INFO:root:*** running  with #Records: 530
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-09-10-013254-ELEMNT+97D8-192-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 3600
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-09-10-073531-ELEMNT+97D8-193-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 3603
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-10-17-134805-ELEMNT+97D8-198-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 6338
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-09-28-025247-ELEMNT+97D8-195-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 2205
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-09-27-063533-ELEMNT+97D8-194-0.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 1097
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-10-01-221307-ELEMNT+97D8-196-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 2416
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-10-14-171023-ELEMNT+97D8-197-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 7171
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-10-29-163114-ELEMNT+97D8-203-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7496
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-10-24-081217-ELEMNT+97D8-202-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 16004
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-10-23-122352-ELEMNT+97D8-201-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 9100
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-10-22-090128-ELEMNT+97D8-200-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 4043
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-10-21-133728-ELEMNT+97D8-199-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 8351
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-10-30-190205-ELEMNT+97D8-204-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 3688
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-11-02-183201-ELEMNT+97D8-207-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 3621
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-11-01-110242-ELEMNT+97D8-206-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 8326
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-10-31-152933-ELEMNT+97D8-205-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 3100
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-11-03-083317-ELEMNT+97D8-208-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 11356
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-11-04-123437-ELEMNT+97D8-209-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 12246
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-11-06-120518-ELEMNT+97D8-210-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 2400
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-11-14-153908-ELEMNT+97D8-216-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 3944
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-11-13-145444-ELEMNT+97D8-215-0.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 1798
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-11-10-104320-ELEMNT+97D8-213-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 12448
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-11-07-095047-ELEMNT+97D8-211-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 5057
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-11-09-094740-ELEMNT+97D8-212-0.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 3150
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-11-12-135941-ELEMNT+3B31-83-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 6726
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-11-11-085919-ELEMNT+97D8-214-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 18128
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-11-13-15-08-33-937Z.GarminPush.26770431696.fit.gz
+INFO:root:*** running  with #Records: 231
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-11-13-15-08-39-022Z.GarminPush.26770434007.fit.gz
+INFO:root:*** running  with #Records: 152
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-11-15-15-57-57-555Z.GarminPush.26839648593.fit.gz
+INFO:root:*** running  with #Records: 309
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-11-15-192242-ELEMNT+97D8-217-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 4203
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-11-16-152949-ELEMNT+97D8-218-0.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 2906
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-11-20-142709-ELEMNT+3B31-84-61.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 3974
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-11-26-10-50-24-090Z.GarminPush.27191336054.fit.gz
+INFO:root:*** running  with #Records: 364
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-11-26-10-50-30-097Z.GarminPush.27191338319.fit.gz
+INFO:root:*** running  with #Records: 383
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-11-26-10-50-37-050Z.GarminPush.27191340881.fit.gz
+INFO:root:*** running  with #Records: 547
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-11-26-10-50-43-967Z.GarminPush.27191343391.fit.gz
+INFO:root:*** running  with #Records: 548
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-11-28-042754-ELEMNT+3B31-87-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 3615
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-11-24-044102-ELEMNT+3B31-86-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 25228
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-11-23-081310-ELEMNT+3B31-85-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 6393
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-12-11-163751-ELEMNT+97D8-219-0.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 6215
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-12-10-124655-ELEMNT+3B31-90-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 6357
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-12-15-120853-ELEMNT+97D8-224-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 12762
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-12-12-110357-ELEMNT+97D8-220-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 7335
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-12-12-180831-ELEMNT+97D8-221-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 3659
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-12-14-185530-ELEMNT+97D8-222-0.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7202
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-12-10-17-32-28-664Z.GarminPush.27671285502.fit.gz
+INFO:root:*** running  with #Records: 720
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-12-12-17-11-33-654Z.GarminPush.27738248987.fit.gz
+INFO:root:*** running  with #Records: 1103
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-12-12-17-11-47-709Z.GarminPush.27738255074.fit.gz
+INFO:root:*** running  with #Records: 1340
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-12-15-09-15-03-227Z.GarminPush.27824352222.fit.gz
+INFO:root:*** running  with #Records: 1911
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-12-14-18-57-23-498Z.GarminPush.27806355464.fit.gz
+INFO:root:*** running  with #Records: 1385
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-12-13-132951-ELEMNT+3B31-91-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 5376
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-12-08-051048-ELEMNT+3B31-89-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 2845
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-12-07-034101-ELEMNT+3B31-88-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 7777
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-12-18-103819-ELEMNT+97D8-226-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 13459
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-12-17-18-14-17-686Z.GarminPush.27905160523.fit.gz
+INFO:root:*** running  with #Records: 1450
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-12-23-08-47-56-534Z.GarminPush.28090549954.fit.gz
+INFO:root:*** running  with #Records: 2198
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-12-23-08-26-40-891Z.GarminPush.28089989179.fit.gz
+INFO:root:*** running  with #Records: 671
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-12-23-08-27-01-058Z.GarminPush.28089998015.fit.gz
+INFO:root:*** running  with #Records: 1464
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-12-17-191034-ELEMNT+97D8-225-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 5405
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-12-19-125029-ELEMNT+97D8-227-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 12962
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-12-27-112318-ELEMNT+97D8-231-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 7333
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-12-29-22-27-06-362Z.GarminPush.28350677684.fit.gz
+INFO:root:*** running  with #Records: 852
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-12-25-18-33-55-586Z.GarminPush.28179795349.fit.gz
+INFO:root:*** running  with #Records: 2543
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-12-28-06-33-45-083Z.GarminPush.28281336738.fit.gz
+INFO:root:*** running  with #Records: 1340
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-12-28-13-04-42-648Z.GarminPush.28292564949.fit.gz
+INFO:root:*** running  with #Records: 560
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-12-24-061019-ELEMNT+97D8-229-12.fit.gz
+INFO:root:*** cycling_indoor  with #Records: 7201
+INFO:root:Saving data to: CYCLING_INDOOR (UPSERT "DDATHLETE"."CYCLING_INDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-12-29-22-28-39-623Z.GarminPush.28350718433.fit.gz
+INFO:root:*** running  with #Records: 853
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-12-28-162627-ELEMNT+97D8-232-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 7178
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-12-29-101911-ELEMNT+97D8-233-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 12128
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-12-23-08-48-52-324Z.GarminPush.28090574215.fit.gz
+INFO:root:*** running  with #Records: 1306
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-12-26-18-43-56-522Z.GarminPush.28221789367.fit.gz
+INFO:root:*** running  with #Records: 1093
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-12-26-114041-ELEMNT+97D8-230-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 16110
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-12-23-162755-ELEMNT+97D8-228-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 3607
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: Frodissimo.2018-12-31-20-27-53-586Z.GarminPush.28428620620.fit.gz
+INFO:root:*** running  with #Records: 1630
+INFO:root:Saving data to: RUNNING (UPSERT "DDATHLETE"."RUNNING" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:root:Parse file: 2018-12-31-120127-ELEMNT+97D8-234-0.fit.gz
+INFO:root:*** cycling_outdoor  with #Records: 7826
+INFO:root:Saving data to: CYCLING_OUTDOOR (UPSERT "DDATHLETE"."CYCLING_OUTDOOR" VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) WITH PRIMARY KEY;)
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 16:21:01] "[37mPOST / HTTP/1.1[0m" 200 -

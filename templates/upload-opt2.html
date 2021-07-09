@@ -1,0 +1,66 @@
+{% extends "bootstrap/base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block title %}Data Driven Athlete{% endblock %}
+
+{% block head %}
+{{ super() }}
+<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}" type="image/x-icon">
+<link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}" type="image/x-icon">
+{% endblock %}
+
+
+{% block navbar %}
+<nav class="navbar navbar-expand-lg navbar-light">
+    <div class="container">
+      <div class="navbar-brand"><H1><img src='/static/SAP_R_grad.png' style="height:50px" class="img-fluid" alt="SAP logo">Data Intelligence</H1></div>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+      </div>
+    </div>
+</nav>
+{% endblock %}
+
+{% block content %}
+<div class="container">
+    {% block page_content %}
+    <br>
+    <br>
+    {% with messages = get_flashed_messages(with_categories=true) %}
+    {% if messages %}
+        {% for category, message in messages %}
+            <div class="alert alert-{{category}}">
+            <button type="button" class="close" data-dismiss="alert">&times;</button>
+            {{ message }}
+            </div>
+        {% endfor %}
+    {% endif %}
+    {% endwith %}
+
+    <div class="page-header">
+    <h2>Data Driven Athlete</h2>
+    </div>
+   <form action="" method='GET'>
+        {{ form.hidden_tag }}<br>
+        {{ form.user.label }}<br>
+        {{ form.user }}<br>
+        {{ form.pwd.label }}<br>
+        {{ form.pwd }}<br>
+        {{ form.sport.label }}<br>
+        {{ form.sport }}<br>
+        {{ form.fitfile }}<br>
+        {{ form.submit }}<br>
+    </form>
+    {{ wtf.quick_form(form) }}
+    {% endblock %}
+</div>
+{% endblock %}
+
+
+
+
+{% block scripts %}
+{{ super() }}
+{% endblock %}
